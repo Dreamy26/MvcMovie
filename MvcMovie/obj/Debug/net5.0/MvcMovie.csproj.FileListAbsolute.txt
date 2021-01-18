@@ -37,3 +37,4 @@
 /Users/dreamy/Projects/personalWork/MvcMovie/MvcMovie/obj/Debug/net5.0/MvcMovie.pdb
 /Users/dreamy/Projects/personalWork/MvcMovie/MvcMovie/obj/Debug/net5.0/MvcMovie.genruntimeconfig.cache
 /Users/dreamy/Projects/personalWork/MvcMovie/MvcMovie/obj/Debug/net5.0/MvcMovie.csproj.CopyComplete
+/Users/dreamy/Projects/personalWork/MvcMovie/MvcMovie/obj/Debug/net5.0/Razor/Views/HelloWorld/Index.cshtml.g.cs
